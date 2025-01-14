@@ -57,8 +57,7 @@ The **Foster Paradise** is a comprehensive application for managing animal adopt
 
 ### Project UI
 
-- **Project Launch**
-- 
+- **Project Launch** 
 <p align="center">
   <span>
     <img src="images/1.jpg" alt="Original Image" width="400">
@@ -89,7 +88,7 @@ The **Foster Paradise** is a comprehensive application for managing animal adopt
     <img src="images/7.jpg" alt="Original Image" width="400">
   </span>
     <br>
-    <em>Fig 1: Starting Window </em>
+    <em>Fig 1: Admin Healthcare </em>
 </p>
 
 <p align="center">
@@ -97,7 +96,7 @@ The **Foster Paradise** is a comprehensive application for managing animal adopt
     <img src="images/8.jpg" alt="Original Image" width="400">
   </span>
     <br>
-    <em>Fig 2: Admin Login </em>
+    <em>Fig 2: Admin Abuse Reports </em>
 </p>
 
 <p align="center">
@@ -105,24 +104,24 @@ The **Foster Paradise** is a comprehensive application for managing animal adopt
     <img src="images/9.jpg" alt="Original Image" width="400">
   </span>
     <br>
-    <em>Fig 3: Admin Interface </em>
-</p>
-
-<p align="center">
-  <span>
-    <img src="images/10.jpg" alt="Original Image" width="400">
-  </span>
-    <br>
-    <em>Fig 4: Add New Donor </em>
+    <em>Fig 3: Admin Adopter List </em>
 </p>
 
 - **User Panel**
 <p align="center">
   <span>
+    <img src="images/10.jpg" alt="Original Image" width="400">
+  </span>
+    <br>
+    <em>Fig 4: View Veterinarians </em>
+</p>
+
+<p align="center">
+  <span>
     <img src="images/11.jpg" alt="Original Image" width="400">
   </span>
     <br>
-    <em>Fig 14: User Login </em>
+    <em>Fig 14: View Animals and Adopt </em>
 </p>
 
 <p align="center">
@@ -130,7 +129,7 @@ The **Foster Paradise** is a comprehensive application for managing animal adopt
     <img src="images/12.jpg" alt="Original Image" width="400">
   </span>
     <br>
-    <em>Fig 15: User Registration </em>
+    <em>Fig 15: Report Abuse </em>
 </p>
 
 <p align="center">
@@ -138,7 +137,7 @@ The **Foster Paradise** is a comprehensive application for managing animal adopt
     <img src="images/13.jpg" alt="Original Image" width="400">
   </span>
     <br>
-    <em>Fig 16: User Interface </em>
+    <em>Fig 16: Our Team </em>
 </p>
 
 <p align="center">
@@ -146,7 +145,7 @@ The **Foster Paradise** is a comprehensive application for managing animal adopt
     <img src="images/14.jpg" alt="Original Image" width="400">
   </span>
     <br>
-    <em>Fig 17: Emergency Blood Request </em>
+    <em>Fig 17: Help Window </em>
 </p>
 
 - **Rescuer Panel**
@@ -155,7 +154,7 @@ The **Foster Paradise** is a comprehensive application for managing animal adopt
     <img src="images/4.jpg" alt="Original Image" width="400">
   </span>
     <br>
-    <em>Fig 17: Emergency Blood Request </em>
+    <em>Fig 17: Add Animal Category </em>
 </p>
 
 <p align="center">
@@ -163,7 +162,7 @@ The **Foster Paradise** is a comprehensive application for managing animal adopt
     <img src="images/5.jpg" alt="Original Image" width="400">
   </span>
     <br>
-    <em>Fig 17: Emergency Blood Request </em>
+    <em>Fig 17: View Adopters </em>
 </p>
 
 <p align="center">
@@ -171,5 +170,5 @@ The **Foster Paradise** is a comprehensive application for managing animal adopt
     <img src="images/6.jpg" alt="Original Image" width="400">
   </span>
     <br>
-    <em>Fig 17: Emergency Blood Request </em>
+    <em>Fig 17: Arrival of Animal </em>
 </p>
